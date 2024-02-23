@@ -6,4 +6,5 @@ then, I make security group and open port 22 for ssh and port 80 for http and op
 then, I make an EC2 instance with users_data script for nginx installation.
 
 
-![image](https://github.com/Mohitrohilla9679/Terraform-Projects/assets/118180056/3a277648-722a-4ac7-a276-39640e1f16a2)
+![image](https://github.com/Mohitrohilla9679/Terraform-Projects/assets/118180056/7f0d51c1-904f-4cf4-8c43-7a69cab30050)
+
