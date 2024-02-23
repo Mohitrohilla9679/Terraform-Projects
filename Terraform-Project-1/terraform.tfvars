@@ -1,0 +1,5 @@
+access_key = "XXXXXXXXXXXXXXXXXXXXX"
+secret_key = "XXXXXXXXXXXXXXXXXXXXXXXXX"
+instance_type = "t2.micro"
+key_name = "mohit-new-account"
+ami_id = "ami-0c7217cdde317cfec"
